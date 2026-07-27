@@ -53,7 +53,7 @@ export default function App() {
               <ShieldCheck className="w-5 h-5" />
             </div>
             <span className="text-[17px] font-semibold tracking-tight text-gray-900 dark:text-white">
-              Data Quality Auditor
+              Data Quality Analyzer
             </span>
           </div>
           <div className="flex items-center gap-4 relative z-10">
