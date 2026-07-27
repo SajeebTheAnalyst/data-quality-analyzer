@@ -49,7 +49,8 @@ export default function App() {
       <header className="sticky top-0 z-50 bg-white/70 dark:bg-[#09090B]/70 backdrop-blur-xl border-b border-gray-200/80 dark:border-gray-800/80 transition-colors">
         <div className="max-w-[1400px] mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-3 relative z-10">
-            <div className="flex items-center justify-center w-8 h-8 rounded-lg bg-gray-900 dark:bg-white text-white dark:text-gray-900 shadow-sm">
+            <img src="/logo.png" alt="Data Quality Analyzer Logo" className="w-9 h-9 rounded-full shadow-sm object-cover bg-white" onError={(e) => { e.currentTarget.style.display = 'none'; e.currentTarget.nextElementSibling!.classList.replace('hidden', 'flex'); }} />
+            <div className="hidden items-center justify-center w-8 h-8 rounded-lg bg-gray-900 dark:bg-white text-white dark:text-gray-900 shadow-sm">
               <ShieldCheck className="w-5 h-5" />
             </div>
             <span className="text-[17px] font-semibold tracking-tight text-gray-900 dark:text-white">
