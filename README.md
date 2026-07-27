@@ -12,7 +12,7 @@ A fast, client-side, and enterprise-grade data profiling and quality assessment 
 
 ## Live Demo
 
-[Link to Live Demo (Placeholder)](#)
+[Link to Live Demo (Data Quality Analyzer)](https://data-quality-analyzer-xi.vercel.app/)
 
 ---
 
@@ -125,8 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**[Your Name / Username]**
+**Sajeeb The Analyst**
 
-*   Website: [Your Portfolio](#)
-*   Twitter: [@yourhandle](#)
-*   GitHub: [@yourusername](#)
+*   Website: [https://data-quality-analyzer-xi.vercel.app/](https://data-quality-analyzer-xi.vercel.app/)
+*   LinkedIn: [linkedin.com/in/sajeeb-the-analyst](https://linkedin.com/in/sajeeb-the-analyst)
